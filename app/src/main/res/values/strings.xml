@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">first_depi_app</string>
+    <string name="send">send</string>
+    <string name="message">message</string>
+    <string name="subject">subject</string>
+    <string name="to">to</string>
+    <string name="my_name">My name is Mohamed</string>
+    <string name="college_name">ITC college\n</string>
+    <string name="rowadEGY">\@depi</string>
+    <string name="app_desc">This is first program in depi\n</string>
+</resources>
