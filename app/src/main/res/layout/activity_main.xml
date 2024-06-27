@@ -38,7 +38,9 @@
     <ImageView
         android:layout_width="400dp"
         android:layout_height="300dp"
-        android:src="@drawable/stetch" />
+        android:src="@drawable/stetch"
+
+        />
 
     <LinearLayout
         android:layout_width="match_parent"
